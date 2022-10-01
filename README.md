@@ -1,0 +1,1 @@
+# how.to.crop.an.image.in.photoshop
