@@ -1,6 +1,6 @@
 # How to Crop an Image in Photoshop
 
-[![how to crop an image in photoshop](redd.png)](https://github.com/tech-solve/how.to.crop.an.image.in.photoshop)
+[![how to crop an image in photoshop](redd.png)](https://icncomputer.com/how-to-crop-an-image-in-photoshop/)
 
 
 
